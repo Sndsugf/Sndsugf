@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sndsugf ✨
+- 👋 Hi, I’m Soundousse aka @Sndsugf ✨
 - 🌱 I’m currently learning python🐍
 
 <!---
